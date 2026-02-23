@@ -1,4 +1,4 @@
-# Hi,  I'm Madgula Gayathri
+# Hi 👋 I'm Madgula Gayathri
 
 🚀 Java Backend Developer | Spring Boot | Microservices | Kafka | AWS
 
@@ -17,7 +17,7 @@
 - Jenkins, Docker, Git
 - AWS EC2, Lambda
 
-## 📌 Featured Projects
+## 📌 Featured Projects (In Progress 🚧)
 - Microservices Architecture System
 - Banking REST API Platform
 - Kafka Event System
@@ -25,4 +25,4 @@
 
 ## 📫 Contact Me
 - 📧 Email: madguganga26@outlook.com
-- 💼 LinkedIn: www.linkedin.com/in/madgula-gayathri-05b915307
+- 💼 LinkedIn: https://www.linkedin.com/in/madgula-gayathri-05b915307
