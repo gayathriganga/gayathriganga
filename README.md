@@ -3,11 +3,11 @@
 🚀 Java Backend Developer | Spring Boot | Microservices | Kafka | AWS
 
 ## 👩‍💻 About Me
-- 3+ years of experience in Java Backend Development
-- Working at HCL Technologies
-- Specialized in Spring Boot & Microservices
-- Strong in REST APIs, Kafka, and CI/CD
-- Passionate about building scalable systems
+- 3+ years building production backend systems at HCL Technologies
+- Specialized in Spring Boot microservices handling 40k+ daily requests
+- Strong in event-driven architecture with Apache Kafka
+- AWS certified (Cloud Practitioner + Google Cloud Digital Leader)
+- Open to SDE-II / Senior Java Backend roles
 
 ## 🛠 Tech Stack
 - Java 8/11/17
